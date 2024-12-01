@@ -1,0 +1,14 @@
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\Number.csproj.AssemblyReference.cache
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\MainWindow.g.cs
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\App.g.cs
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\Number_MarkupCompile.cache
+C:\Users\vladc\source\repos\Number\Number\bin\Debug\Number.exe.config
+C:\Users\vladc\source\repos\Number\Number\bin\Debug\Number.exe
+C:\Users\vladc\source\repos\Number\Number\bin\Debug\Number.pdb
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\MainWindow.baml
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\Number.g.resources
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\Number.Properties.Resources.resources
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\Number.csproj.GenerateResource.cache
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\Number.csproj.CoreCompileInputs.cache
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\Number.exe
+C:\Users\vladc\source\repos\Number\Number\obj\Debug\Number.pdb
